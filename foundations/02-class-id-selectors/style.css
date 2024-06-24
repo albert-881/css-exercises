@@ -1,0 +1,21 @@
+.pink {
+    background-color: rgb(255, 192, 192);
+    font-family: 'Verdana','DejaVu Sans', sans-serif ;
+}
+
+.pink.bigger {
+    background-color: rgb(255, 192, 192);
+    font-family: 'Verdana','DejaVu Sans', sans-serif ;
+    font-size: 24px ;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: rgb(90, 223, 161);
+    font-size: 24px;
+    font-weight: bold;
+}
